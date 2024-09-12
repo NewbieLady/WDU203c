@@ -1,0 +1,2 @@
+Very good (There is a clear problem description and a good summary of the problem is posed as a single question.)
+Fair (The scoping of the problem might be a little too big or a little too small. It seems either a little too simple or a little too complex to be answered with a couple of hour-long interviews.)
