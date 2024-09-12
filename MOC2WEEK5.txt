@@ -1,0 +1,10 @@
+Number of questions you want to ask
+Every member of your population has some chance to be selected for the survey.
+A social media site, like Twitter
+Cost
+Emailing all students at a university based on a random sample of email addresses provided by the administration.
+Asking people who use a site's shopping cart how they feel about that experience.
+To reduce recruitment costs
+Response rates for Turkers
+Results can be biased because people semi-consciously will try to look acceptable to the interviewer.
+Sampling frame

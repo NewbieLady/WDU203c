@@ -1,0 +1,10 @@
+The heuristics are exhaustive and detailed enough to tell a designer exactly what elements to include in every possible part of every possible user interface
+100 milliseconds
+Match between system and the real world
+support "undo" and "redo" to help users recover from mistakes
+Supporting standards allows users to leverage "schemas" they have developed through prior experiences with similar systems
+It helps prevent errors before they happen
+Support recognition over recall
+the use of keyboard "accelerator" shortcuts
+reducing clutter and organizing information makes it easier for people to find what they are looking for
+help should be written from the system developers' point of view

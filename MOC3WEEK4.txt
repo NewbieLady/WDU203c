@@ -1,0 +1,10 @@
+False
+The number of personas should match the number of classes of target users that the designers have identified in the formative work
+They should focus on information that contributes to the distinct needs and potential barriers to and motivations for use that each class of target users has in relation to the technology being developed
+By envisioning how a technology might address the needs identified in formative work
+True
+Location
+All of the above
+False
+False
+Criteria

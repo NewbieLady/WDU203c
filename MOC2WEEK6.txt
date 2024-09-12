@@ -1,0 +1,10 @@
+The goal is to discover whether the web browser tool or Dropbox is easier for users' file management needs
+Complete the Test Script
+Add task instructions for users to replicate
+It lists UX issues ranked by priority based on evidence of actual user testing feedback
+It includes actionable recommendations of how to fix the UX issues
+Severity
+Evidence
+Clear description of the problem
+Yes, it has users test the core functions of the app
+User control and freedom

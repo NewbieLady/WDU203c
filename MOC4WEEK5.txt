@@ -1,0 +1,10 @@
+Memory fades over time, and often doesn't capture routine actions.
+Writing a question that every respondent will answer in the same way.
+It can be hard to operationalize abstract concepts in a way that every respondent understands.
+They are the easiest type of question to analyze.
+It's the query that operationalizes the concept of interest and prompts a response.
+Nominal closed-ended
+Bipolar ordinal
+Nominal closed-ended, choice forced
+Making the question sound scientific.
+The type of analysis you plan on doing

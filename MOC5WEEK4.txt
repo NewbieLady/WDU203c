@@ -1,0 +1,9 @@
+True
+All of the above
+False
+Is the displayed content ordered correctly?
+True
+They should cover the functionality of the whole system.
+False
+They are of limited usefulness for testing usability
+False

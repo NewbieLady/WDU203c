@@ -1,0 +1,10 @@
+False
+False
+The discrepancy between what the user is trying to do and what he/she is able to do using the system's interface.
+The ability of the user to tell if the system did what the user was trying to do.
+False
+Defaults are easily changed.
+Social determinists
+True
+None of the above
+True

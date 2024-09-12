@@ -1,0 +1,10 @@
+True
+Because quick idea generation helps designers generate a lot of ideas
+False
+Tradeoff analysis
+False
+True
+Refined
+False
+All of the above
+True

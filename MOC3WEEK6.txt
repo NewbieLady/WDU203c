@@ -1,0 +1,5 @@
+Check map, Help, Activate function "Robbery"
+Yes, any type of prototype can be used for user testing
+Hi-Fi Prototype
+1, 2, 3
+It specifies where the user should click to progress to the next screen.

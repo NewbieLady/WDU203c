@@ -1,0 +1,10 @@
+Describing Opinions of a Group of People
+Launch an exploratory survey to determine UX goals.
+Population
+Instrument
+Error can be reduced by designing surveys as well as well as possible within resource constraints.
+Measurement error
+Nonresponse error
+Sampling error
+Surveys are good at broad descriptions of groups, but not at precise measurements.
+Sampling Frame

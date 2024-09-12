@@ -1,0 +1,13 @@
+There is no known process that we can follow to create good UX
+False
+False
+True
+Stylize
+The spiral model
+UX Research methods
+Value
+Usability
+Desirability
+Adoptability
+Where do users currently look for products or services like the one we will offer?
+True

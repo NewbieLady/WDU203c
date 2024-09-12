@@ -1,0 +1,10 @@
+Formative
+Benchmark
+Expected purchase price
+Qualitative
+You should not know who the test participants are, and they should not know who you are.
+It helps you understand why test participants had difficulties when using the system
+Task completion speed
+Critical incidents
+Focus on collecting data that could help explain differences in task outcomes.
+Whether users can successfully perform the tasks that you designed the system to support.

@@ -1,0 +1,10 @@
+Obtaining quantified measures of participants subjective reactions to using a system
+They are so expensive that they are only used in the biggest, most well-funded projects
+Perceived usability
+Demographic questions like age, gender, and education level
+Participants are likely to tell us what they think we want to hear
+Wherever possible, have user tests conducted by neutral third parties who have no investment in the outcome of the test
+They are partners with the researchers administering the test, working with together to find flaws in the system design
+Informed Consent
+Allowing the moderator to declare a task "done" could give the participant more information than they would have if conducting the task outside the test environment
+False

@@ -1,0 +1,10 @@
+Notify participants as soon as they have met each task's success criteria
+Dedicated only for conducting user tests
+You plan to invite multiple stakeholders to observe the test sessions
+Moderator
+5-10
+The names of the participants who encountered them
+Declining to provide a recommendation, admitting you have no good ideas
+True
+False
+False

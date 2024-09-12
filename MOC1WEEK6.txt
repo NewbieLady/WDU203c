@@ -1,0 +1,9 @@
+They're open ended, not leading
+They seek to learn about what problems there are with existing solutions
+They are questions that can be answered by interviewing the target user population
+They will help the researcher learn how users currently complete the activity that their design will try to improve
+Qualitative research such as user interviews or focus groups
+#2 because it includes relevant demographic information, motivations and needs related to the design problem, and characteristics could constrain the persona's ability to use a system.
+George needs the app to work efficiently, since he will likely be using it at the end of the day and will only have a short period to sell the leftover food
+Consumers need to find out about the food availability right when it is posted, since it will likely be at the end of the day. Pushing notifications to consumers when food is posted would be useful in the app
+The app's success will rely on users following through on picking up their purchases; making users pay in-app rather than in the store will increase the likelihood that all the food is picked up

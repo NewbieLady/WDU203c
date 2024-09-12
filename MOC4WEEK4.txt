@@ -1,0 +1,10 @@
+False
+All options on this list except GPS
+Picture taken by the user using the phone camera
+True
+Olfactory
+All of the above
+True
+True
+Current values of all system inputs and variables, and rules for operating on those values
+True
